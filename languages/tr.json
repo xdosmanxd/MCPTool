@@ -6,7 +6,7 @@
         "newVersion": "\n%spaces%&a&lYeni sürüm çıktı! MCPTool'u kapat ve yeni sürümü burdan indir &b&lhttps://mcptool.net"
     },
     "commands": {
-        "invalidCommand": "\n%spaces%&cBilinmeyen komut. &f&lUse &ahelp&f&l for see all avaible commands.",
+        "invalidCommand": "\n%spaces%&cBilinmeyen komut. &f&lTüm komutları görmek için &ahelp&f&l yazın.",
         "missingArguments": "\n%spaces%&cArgümanlar eksik. &f&lDoğru kullanımı: &b&l%command% &c&l%arguments%",
         "ctrlC": "\n%spaces%%prefix% &f&lKomut durduruluyor...",
         "server": {
@@ -212,7 +212,7 @@
         "velocityTomlError": "\n%spaces%%prefix% &f&lvelocity.toml dosyasında bir hata çıktı. Daha fazla bilgi için log dosyasını inceleyin.",
         "rconTimeout": "\n%spaces%%prefix% &f&lRCON sunucusuna olan bağlantınız zaman aşımına uğradı. Ip, port ve RCON şifresini kontrol edip tekrar deneyin.",
         "rconConnectionRefused": "\n%spaces%%prefix% &f&lRCON sunucusu bağlantıyı reddetti. Ip, port ve RCON şifresini kontrol edip tekrar deneyin.",
-        "rconInvalidPassword": "\n%spaces%%prefix% &f&lGirdiğiniz RCON şifresi geçersiz. Şifreyi kontrol edip tekra deneyin.",
+        "rconInvalidPassword": "\n%spaces%%prefix% &f&lGirdiğiniz RCON şifresi geçersiz. Şifreyi kontrol edip tekrar deneyin.",
         "rconUnknownError": "\n%spaces%%prefix% &f&lRCON sunucusuna bağlanırken bilinmeyen bir hata oluştu. Daha fazla bilgi için log dosyasını kontrol edin.",
         "commandsFileEmpty": "\n%spaces%%prefix% &f&lKomut dosyası boş. Dosyaya komutları ekleyip tekrar deneyin.",
         "noSubdomainsFoundResolver": "\n%spaces%%prefix% &f&lGirdiğiniz domain'de subdomain bulunamadı.",
